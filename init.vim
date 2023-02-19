@@ -50,7 +50,6 @@ let g:NERDTreeDirArrowCollapsible="~"
 " :CocCommand snippets.edit... FOR EACH FILE TYPE
 
 ":CocInstall coc-tsserver coc-eslint coc-json coc-prettier coc-snippets
-":CocInstall coc-omnisharp
 
 " air-line
 let g:airline_powerline_fonts = 1
