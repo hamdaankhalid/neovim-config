@@ -1,0 +1,17 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "csharp",
+    "sql",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javasciptreact",
+    "typescript.tsx"
+  ],
+  "tsserver.path": "node_modules/typescript/bin/tsserver",
+  "tsserver.experimental.plugins": true,
+  "tsserver.log": "verbose",
+  "snippets.ultisnips.pythonPrompt": false
+}
